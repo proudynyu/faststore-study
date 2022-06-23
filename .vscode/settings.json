@@ -1,0 +1,12 @@
+{
+  "css.validate": false,
+  "scss.validate": false,
+  "editor.quickSuggestions": {
+      "strings": true
+    },
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#302F08",
+      "titleBar.activeBackground": "#43410C",
+      "titleBar.activeForeground": "#FBFBEA"
+    },
+}
